@@ -1086,3 +1086,62 @@ ASSISTANT
 10. **Education AI Reform**
    - Aid in reforming education for +5 ES, or commercialize your AI for +10 DP.
 ```
+
+---
+
+
+### Resource Cards (Example Titles)
+
+1. **Quantum Computing Cluster (Special Resource Card)**
+   - Prompt: A sleek and futuristic quantum computer, with glowing qubits and advanced circuitry.
+
+2. **Renewable Energy Surge (Energy Card)**
+   - Prompt: Dynamic wind turbines and solar panels against a backdrop of a digital grid, symbolizing sustainable energy.
+
+### AI Model Cards (Example Titles)
+
+1. **Content Recommendation Algorithm**
+   - Prompt: An AI interface displaying personalized content suggestions on various digital screens.
+
+2. **Social Media Sentiment Analyzer**
+   - Prompt: A digital dashboard analyzing and displaying social media trends and public sentiments.
+
+### Ethical Dilemma Cards (Example Titles)
+
+1. **Data Privacy Legislation**
+   - Prompt: A balance scale with digital data on one side and a gavel on the other, symbolizing the balance between data privacy and regulation.
+
+2. **AI in Law Enforcement**
+   - Prompt: A robotic figure in police attire analyzing data, juxtaposed with ethical symbols, reflecting the dilemma in law enforcement.
+
+### Influence Cards (Example Titles)
+
+1. **Global Network Expansion**
+   - Prompt: A digital globe with interconnected nodes and lines, symbolizing a vast global network.
+
+2. **Tech Conglomerate CEO**
+   - Prompt: A powerful corporate figure overlooking a digital cityscape, representing corporate influence in tech.
+
+### Private Goal Cards (Example Titles)
+
+1. **Venture Victory**
+   - Prompt: A triumphant figure standing atop a podium with futuristic city and tech startup logos in the background.
+
+2. **Rookie Rise**
+   - Prompt: An enthusiastic young developer amidst coding screens, celebrating a breakthrough.
+
+### Global Event Cards (Example Titles)
+
+1. **International AI Symposium**
+   - Prompt: A grand convention hall with diverse groups of people engaging with various AI exhibits and presentations.
+
+2. **Green Computing Movement**
+   - Prompt: A wave of green energy sweeping over computer servers and data centers, symbolizing eco-friendly tech advancements.
+
+### Localized Event Cards (Example Titles)
+
+1. **Market Analyst**
+   - Prompt: An analyst in front of multiple screens showing market trends and AI statistics.
+
+2. **Investment Banker**
+   - Prompt: A banker amidst financial charts and AI models, signifying the melding of finance and AI technology.
