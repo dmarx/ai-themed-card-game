@@ -34,6 +34,55 @@
 
 ---
 
+4. **Tech Visionary**
+   - Prompt: A visionary tech leader standing before a futuristic cityscape, gazing at a holographic display of advanced technology.
+
+5. **AI Ethics Philosopher**
+   - Prompt: A thoughtful individual surrounded by digital symbols of moral dilemmas and ethical choices in AI.
+
+
+18. **Strategic Mastermind**
+   - Prompt: A chess-like strategic setting with AI elements, depicting a mastermind plotting moves on a digital board.
+
+19. **Open Source Advocate**
+   - Prompt: A collaborative digital environment with open source code being shared and developed by a diverse community.
+
+20. **Patent Troll**
+   - Prompt: A caricatured troll hoarding patents in a cave filled with legal documents and digital locks, symbolizing aggressive IP control.
+
+
+22. **Tech Merger Tycoon**
+   - Prompt: An influential tycoon in a high-tech corporate setting, orchestrating a major tech merger with multiple screens showing various AI companies.
+
+
+27. **Pixel Pioneers**
+   - Prompt: Pioneering characters in a retro digital world, crafting advanced AI out of pixels and basic digital elements.
+
+* AI ARTISTS
+
+
+30. **AI Armchair Experts**
+   - Prompt: A group of confident individuals in armchairs, surrounded by screens and AI gadgets, portraying themselves as AI experts.
+
+
+36. **Unsure Undergrad**
+   - Prompt: A young, uncertain student surrounded by AI textbooks and digital puzzles, pondering over AI models and code.
+
+37. **FOMO Fighter**
+   - Prompt: A character in a dynamic pose, battling the digital manifestations of 'Fear Of Missing Out' in the tech world.
+
+38. **Tech Evangelist**
+   - Prompt: Charismatic figure preaching the gospel of AI and technology, with a captivated audience and digital halo.
+
+39. **Open Source Overlords**
+   - Prompt: Commanding figures overseeing a vast open-source empire, with networks of collaborative coding and shared AI developments.
+
+40. **Binary Barons**
+   - Prompt: Powerful figures in a digital realm, controlling streams of binary data and overseeing AI kingdoms.
+
+
+---
+
 ### Player Personas for "AI Assembly"
 
 1. **Dr. Ada Turing**
