@@ -80,3 +80,23 @@ Private goals can reflect different ambitions or motivations in the tech world:
 
 2. **Rookie Rise**
    - Prompt: An enthusiastic young developer amidst coding screens, celebrating a breakthrough.
+
+---
+
+### From personas
+
+   - **Private Goal**: "Underdog Triumph" - Accumulate the most resources from a single turn.
+   - **Private Goal**: "Legacy of Innovation" - Be the first to deploy three different types of AI Models.
+   - **Private Goal**: "Checkmate" - Control the most AI Models on the board at game end.
+   - **Private Goal**: "Venture Victory" - Be the first to reach 15 Influence Points.
+   - **Private Goal**: "Viral Fame" - Accumulate the most Influence Points in a single round.
+   - **Private Goal**: "Digital Fortress" - Have the highest combined total of CP and Energy at the game’s end.
+
+   - **Private Goal**: "Bleeding Edge" - Own the most Advanced AI Models at the end of the game.
+- **Private Goal**: "Spread the Word" - Use the most Influence Cards by the end of the game.
+- **Private Goal**: "In the Loop" - Never miss building an AI Model in consecutive turns.
+ - **Private Goal**: "Thesis Defense" - Build three different types of AI Models.
+- **Private Goal**: "Rookie Rise" - Be the first to reach 10 DP.
+- **Private Goal**: "Karma King" - Gain the most Influence Points in one round.
+- **Private Goal**: "Cult Hit" - Accumulate 10 DP without using any Advanced or Experimental AI Models.
+- **Private Goal**: "Next Big Thing" - Be the first to build an Experimental AI Model.
