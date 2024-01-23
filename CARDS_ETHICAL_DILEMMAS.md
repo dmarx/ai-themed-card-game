@@ -315,3 +315,32 @@ ASSISTANT
 
 ---
 
+
+9. **Consent Compromise**
+   - Prompt: A depiction of a digital handshake being formed or broken, symbolizing the delicate balance of data consent.
+
+10. **Inherent Bias Discovery**
+   - Prompt: An AI system being examined under a magnifying glass, revealing hidden biases in its code or data.
+
+
+21. **Cybersecurity Crisis**
+   - Prompt: A dramatic digital landscape showing a fortress under cyber attack, with firewalls and digital shields activated.
+
+
+26. **Cloud Kingdom Clash**
+   - Prompt: Ethereal cloud kingdom with data streams and digital structures, depicting a strategic clash in the cloud computing realm.
+
+CHIP SHORTAGE
+
+CRYPTO CRASH (chips flood market)
+
+
+32. **Data Monetization Offer**
+   - Prompt: A corporate figure presenting a tempting offer to monetize data, with digital currency and data streams in the background.
+
+33. **AI Recruitment Bias**
+   - Prompt: AI system screening candidates with visible bias, highlighting the issue of recruitment bias in AI algorithms.
+
+34. **Ethical Paradigm Shift**
+   - Prompt: A scene depicting a shift in AI ethics, with symbols of moral change and digital transformation in AI practices.
+
