@@ -111,3 +111,27 @@
 ---
 
 
+### Resource Cards
+
+1. **Computational Power (CP) Card**
+   - Prompt: An image of a high-powered computer processor emitting a radiant glow, symbolizing immense processing capability.
+
+2. **Energy Card**
+   - Prompt: Dynamic representation of energy, possibly as a glowing, pulsating power source or futuristic battery.
+
+3. **Capital Card**
+   - Prompt: Illustration of futuristic currency or digital tokens, representing financial resources in the game.
+
+4. **Special Resource Card**
+   - Prompt: A unique, multi-faceted digital gem radiating different types of resources (CP, Energy, Capital).
+
+
+### Resource Cards (Example Titles)
+
+1. **Quantum Computing Cluster (Special Resource Card)**
+   - Prompt: A sleek and futuristic quantum computer, with glowing qubits and advanced circuitry.
+
+2. **Renewable Energy Surge (Energy Card)**
+   - Prompt: Dynamic wind turbines and solar panels against a backdrop of a digital grid, symbolizing sustainable energy.
+
+
