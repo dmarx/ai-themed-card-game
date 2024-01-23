@@ -1,5 +1,117 @@
 ### Resource Cards
 
+#### 1. Computational Power (CP) Card
+- **Name**: "Quantum Computing Cluster"
+- **Effect**: Provides +3 CP for one turn.
+- **Description**: "Harness cutting-edge quantum computing to boost your AI's processing power. Use wisely, quantum states are notoriously fickle."
+
+#### 2. Energy Card
+- **Name**: "Solar Energy Harvest"
+- **Effect**: Generates +2 Energy every turn.
+- **Description**: "Tap into renewable energy sources to power your AI projects. Clean and efficient, it's the energy of the future!"
+
+#### 3. Capital Card
+- **Name**: "Venture Capital Investment"
+- **Effect**: Gain +5 Capital.
+- **Description**: "Secure funding from eager investors. Remember, they expect results!"
+
+### AI Model Cards
+
+#### 1. Basic AI Model
+- **Name**: "Neural Network Prototype"
+- **Effect**: Gain 2 Data Points per turn.
+- **Description**: "The backbone of modern AI. This model lays the groundwork for more complex algorithms."
+
+#### 2. Advanced AI Model
+- **Name**: "Self-Optimizing Algorithm"
+- **Effect**: Gain 5 Data Points per turn; can trade 2 Data Points for 1 CP.
+- **Description**: "An AI that improves itself over time. Its efficiency is unmatched."
+
+#### 3. Experimental AI Model
+- **Name**: "Quantum AI Entity"
+- **Effect**: Gain 10 Data Points per turn; high risk but high reward.
+- **Description**: "Pushing the boundaries of AI, this model operates in ways we're still trying to understand. Handle with care!"
+
+### Influence Cards
+
+#### 1. AI Guru Influencer Card
+- **Name**: "Charismatic AI Visionary"
+- **Effect**: Double your Influence Points for one turn.
+- **Description**: "Their insights change the game. When they speak, the world listens."
+
+#### 2. Corporate Power Influencer Card
+- **Name**: "Tech Tycoon"
+- **Effect**: Convert up to 5 Capital into 10 Influence Points.
+- **Description**: "A titan of industry with the power to shape markets and minds alike."
+
+### Ethical Dilemma Cards
+
+#### 1. Data Privacy Dilemma
+- **Name**: "Privacy vs Progress"
+- **Effect**: Choose to gain 5 Data Points with a risk of losing 3 Influence Points, or gain 2 Ethical Points.
+- **Description**: "Balancing user privacy with data needs is a tightrope walk. What will you prioritize?"
+
+#### 2. AI Bias Dilemma
+- **Name**: "Algorithmic Bias Challenge"
+- **Effect**: Choose to ignore and gain 3 CP, or address the issue and gain 4 Ethical Points.
+- **Description**: "Biases in AI can be subtle yet pervasive. Will you address the issue head-on or focus on efficiency?"
+
+---
+
+
+### Resource Cards
+
+1. **Computational Power (CP) Card - "Quantum Computing Cluster"**
+   - Balance Check: +3 CP is a significant boost. Ensure it's balanced by making this card somewhat rare. 
+   - Simulation Note: Observe if this card overly accelerates AI model development in early game.
+
+2. **Energy Card - "Solar Energy Harvest"**
+   - Balance Check: +2 Energy every turn is a steady benefit. Consider the card's frequency in the deck to prevent energy saturation.
+   - Simulation Note: Monitor if this leads to excessive energy accumulation, making energy management less strategic.
+
+3. **Capital Card - "Venture Capital Investment"**
+   - Balance Check: A one-time +5 Capital can be powerful. Its impact should be offset by its rarity or by introducing cards that can counteract sudden capital influxes.
+   - Simulation Note: Assess if players using this card gain an unfair advantage in purchasing power.
+
+### AI Model Cards
+
+1. **Basic AI Model - "Neural Network Prototype"**
+   - Balance Check: Steady gain of 2 Data Points per turn seems fair for a basic model. Ensure it's a viable choice even when more advanced models are available.
+   - Simulation Note: Check if players are incentivized to upgrade to advanced models or if they tend to stick with basic models for too long.
+
+2. **Advanced AI Model - "Self-Optimizing Algorithm"**
+   - Balance Check: This model's ability to trade Data Points for CP could be powerful. Ensure the trade-off is balanced and does not devalue the CP resource.
+   - Simulation Note: Observe how often players opt for this trade and its impact on overall resource management.
+
+3. **Experimental AI Model - "Quantum AI Entity"**
+   - Balance Check: High risk and reward should be clearly defined. Perhaps introduce a mechanic where there's a chance of model failure, resulting in loss of resources or Data Points.
+   - Simulation Note: Ensure that the risk involved does not deter players from attempting to build this model, while keeping its powerful effects in check.
+
+### Influence Cards
+
+1. **AI Guru Influencer - "Charismatic AI Visionary"**
+   - Balance Check: Doubling Influence Points can be game-changing. Consider implementing conditions for its use, such as requiring a certain number of Data Points.
+   - Simulation Note: Watch for scenarios where this card might lead to sudden, unbalanced swings in a player's influence.
+
+2. **Corporate Power Influencer - "Tech Tycoon"**
+   - Balance Check: The ability to convert Capital to Influence Points should have limitations, like a cooldown period or diminishing returns.
+   - Simulation Note: Assess if this conversion makes the influence game too dependent on capital resources, overshadowing other strategies.
+
+### Ethical Dilemma Cards
+
+1. **Data Privacy Dilemma - "Privacy vs Progress"**
+   - Balance Check: The dilemma should present a real strategic decision. Adjust the Data and Influence Points gained or lost to ensure players are genuinely conflicted.
+   - Simulation Note: Verify that the consequences of this dilemma are meaningful and impact the player's strategy.
+
+2. **AI Bias Dilemma - "Algorithmic Bias Challenge"**
+   - Balance Check: The option to ignore for CP gain versus addressing for Ethical Points needs to be a tough choice. Adjust the points to balance the ethical and resource-management aspects.
+   - Simulation Note: Observe if players frequently choose one option over the other, indicating a balance issue.
+
+
+---
+
+### Resource Cards
+
 1. **Computational Power (CP) Cards**:
    - Quantity: 30 cards
    - Powers/Values: Ranges from +2 to +5 CP
