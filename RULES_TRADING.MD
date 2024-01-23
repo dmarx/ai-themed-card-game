@@ -1,4 +1,30 @@
 
+## 7. Special Mechanisms
+
+### A. Trade and Negotiation
+
+1. **Resource Trading**:
+   - During the Resource Trading Phase, players can exchange CP, Energy, and Capital among themselves. 
+   - Trades can include combinations of different resources. For example, a player can trade 5 CP for 3 Energy with another player.
+   - All trades are binding once agreed upon.
+
+2. **Card Effect Trading**:
+   - Certain cards are designated as 'tradable'. Their effects can be traded with other players instead of being used.
+   - For example, a player can trade the effect of a "Quantum Computing Boost" card to another player in exchange for resources or other card effects.
+   - Once a card effect is traded, it is marked as 'used' and cannot be traded again during the same turn.
+
+3. **Future Turn Promises**:
+   - Players can negotiate actions to be taken in future turns as part of trade deals.
+   - Examples include promises not to play certain cards against the trader in the next turn or to assist in resolving an upcoming Ethical Dilemma.
+   - If a player breaks a promise, they incur penalties such as losing Influence Points or Ethical Points.
+
+4. **Ethical Decision Influencing**:
+   - When resolving Ethical Dilemma Cards, players can negotiate with others to influence their decisions in exchange for resources or other benefits.
+   - This mechanism allows players to impact decisions that might not directly involve them, adding a layer of strategic depth and player interaction.
+
+---
+
+
 ### Rulebook Integration
 
 **Section on Trading Mechanics**:
