@@ -213,3 +213,8 @@ Localized Event Cards target specific players or conditions, introducing individ
 
 6. **Energy Crisis**
    - Effect: The player with the least Energy cannot use Energy resources for one turn.
+
+
+24. **AI in Healthcare Revolution**
+   - Prompt: Futuristic medical environment enhanced with AI technology, showing robots performing surgery and AI analyzing patient data.
+
