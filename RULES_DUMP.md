@@ -1,3 +1,39 @@
+```markdown
+# [Game Name]: Rulebook
+
+## Table of Contents
+1. Introduction
+2. Objective of the Game
+3. Game Components
+4. Setup
+5. Gameplay Overview
+6. Phases of a Turn
+   - Resource Collection Phase
+   - AI Development Phase
+   - Influence Actions Phase
+   - Ethical Dilemma Resolution Phase
+   - Resource Trading Phase
+   - End of Turn
+7. Card Types
+   - AI Model Cards
+   - Influence Cards
+   - Ethical Dilemma Cards
+   - Resource Cards
+8. Special Mechanics
+   - Enhanced AI Models
+   - Influence Card Dynamics
+   - Trading
+--------------------------------------------------------------------------------
+ASSISTANT
+ Mechanisms
+   - Ethical Dilemmas
+9. Victory Conditions
+10. Player Abilities and Goals
+11. End-Game Scenarios
+12. FAQs
+13. Glossary
+```
+
 
 # [Game Name]: Rulebook
 
