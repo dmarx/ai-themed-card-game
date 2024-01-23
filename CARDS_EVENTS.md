@@ -219,3 +219,5 @@ Localized Event Cards target specific players or conditions, introducing individ
    - Prompt: Futuristic medical environment enhanced with AI technology, showing robots performing surgery and AI analyzing patient data.
 
 HACKATHON
+
+PARADIGM SHIFT
