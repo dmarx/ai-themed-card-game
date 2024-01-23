@@ -1,4 +1,41 @@
 
+
+### 1. AI Model Development Mechanics
+
+**Elaboration Needed**:
+- Clarify the types and benefits of different AI Models.
+- Detail the resource requirements for building and upgrading these models.
+- Introduce a system for model obsolescence or evolution to add strategic depth.
+
+**Proposed Elaboration**:
+- Define three tiers of AI Models: Basic, Advanced, and Experimental, each offering escalating benefits but requiring more resources.
+- Introduce a mechanic where older models can become obsolete, requiring players to continuously innovate and upgrade.
+- Add special abilities to certain AI Models that can influence other game aspects, like resource generation or ethical dilemmas.
+
+### 2. Influence and Ethical Dilemma Cards
+
+**Elaboration Needed**:
+- Develop a more nuanced system for gaining and using influence.
+- Create a diverse range of ethical dilemmas that challenge players in different ways.
+
+**Proposed Elaboration**:
+- Influence can be gained through successful AI projects, influencer alliances, and resolving ethical dilemmas.
+- Introduce a 'public opinion' meter influenced by players' decisions, affecting their influence gain or loss.
+- Ethical dilemmas should range from data privacy issues to AI biases, each presenting unique challenges and requiring different resources or influence levels to resolve.
+
+### 3. Faction Dynamics
+
+**Elaboration Needed**:
+- Define the unique traits and abilities of each faction.
+- Establish how factions can interact with each other and influence the game state.
+
+**Proposed Elaboration**:
+- Each faction has a unique resource advantage, special AI model preference, and ethical standpoint.
+- Introduce alliance and rivalry mechanics between factions, affecting resource trades, influence battles, and ethical dilemmas.
+
+
+---
+
 ### Developing AI Model Development Mechanics
 
 1. **Define AI Model Tiers**:
