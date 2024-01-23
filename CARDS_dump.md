@@ -1,3 +1,127 @@
+### AI Model Cards
+
+```markdown
+#### Basic AI Models
+1. **Neural Network Prototype**
+   - Gain +2 DP per turn.
+
+2. **Predictive Analytics Engine**
+   - View the top card of any deck once per turn.
+
+3. **Automated Customer Service Bot**
+   - Gain +1 Capital per turn.
+
+... (remaining 17 cards)
+
+#### Advanced AI Models
+1. **Deep Learning System**
+   - Double your DP gain every third turn.
+
+2. **Advanced Autonomous Vehicle**
+   - Gain +5 DP, move one Ethical Dilemma card to another player.
+
+... (remaining 13 cards)
+
+#### Experimental AI Models
+1. **Quantum AI Entity**
+   - Gain +10 DP per turn, with a risk. Now with immunity to negative Influence actions next turn if no negative outcome occurs.
+
+2. **Artificial General Intelligence**
+   - Choose either +20 DP or +20 IP once.
+
+... (remaining 8 cards)
+```
+
+### Influence Cards
+
+```markdown
+#### AI Guru Cards
+1. **Tech Visionary**
+   - Double your IP this turn.
+
+2. **AI Ethics Philosopher**
+   - Gain +5 Ethical Points, lose -2 DP.
+
+... (remaining 8 cards)
+
+#### Corporate Power Cards
+1. **Tech Conglomerate CEO**
+   - Gain +15 Capital instantly.
+
+2. **Venture Capitalist**
+   - Invest 5 Capital to potentially double it next turn.
+
+... (remaining 8 cards)
+
+#### Special Event Cards
+1. **International AI Symposium**
+   - All players exchange hands.
+
+2. **Global Tech Expo**
+   - Draw three additional cards.
+
+... (remaining 8 cards)
+```
+
+### Ethical Dilemma Cards
+
+```markdown
+#### Data Privacy Dilemmas
+1. **Consent Compromise**
+   - Gain +5 DP but risk losing -3 IP.
+
+2. **Hacker Threat**
+   - Lose -5 DP or spend -3 CP to protect data.
+
+... (remaining 8 cards)
+
+#### AI Bias Dilemmas
+1. **Inherent Bias Discovery**
+   - Ignore for +3 DP, or address for +3 Ethical Points.
+
+2. **Diversity in AI Training**
+   - Invest in diversity for +2 Ethical Points, or prioritize efficiency for +3 CP.
+
+... (remaining 8 cards)
+
+#### Global Impact Dilemmas
+1. **Climate Change Modeling**
+   - Invest in climate research for +4 Ethical Points, or use resources for immediate gains.
+
+2. **Global Health Initiative**
+   - Support the initiative for +3 Ethical Points and -5 Capital, or focus on your projects for +5 DP.
+
+... (remaining 8 cards)
+```
+
+### Resource Cards
+
+```markdown
+#### Computational Power (CP) Cards
+- 15 cards, each providing +2 CP.
+- 10 cards, each providing +3 CP.
+- 5 cards, each providing +4 CP.
+
+#### Energy Cards
+- 15 cards, each providing +2 Energy.
+- 10 cards, each providing +3 Energy.
+- 5 cards, each providing +4 Energy.
+
+#### Capital Cards
+- 15 cards, each providing +3 Capital.
+- 10 cards, each providing +4 Capital.
+- 5 cards, each providing +5 Capital.
+
+#### Special Resource Cards
+- 2 cards, "Quantum Computing Cluster": Double CP gain for one turn.
+- 2 cards, "Renewable Energy Surge": Double Energy gain for one turn.
+- 2 cards, "Venture Capital Infusion": Gain +10 Capital.
+- 2 cards, "Data Breach Recovery": Regain lost DP or IP.
+- 2 cards, "Resource Redistribution": Redistribute resources among players.
+```
+
+
+---
 
 ### Basic AI Models (20 Cards)
 
