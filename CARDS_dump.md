@@ -5,7 +5,6 @@
 
 ### Resource Cards
 
-```markdown
 #### Computational Power (CP) Cards
 - 15 cards, each providing +2 CP.
 - 10 cards, each providing +3 CP.
@@ -27,19 +26,9 @@
 - 2 cards, "Venture Capital Infusion": Gain +10 Capital.
 - 2 cards, "Data Breach Recovery": Regain lost DP or IP.
 - 2 cards, "Resource Redistribution": Redistribute resources among players.
-```
 
 
 ---
-
-
-
-
---------------------------------------------------------------------------------
-USER
-please continue
---------------------------------------------------------------------------------
-ASSISTANT
 
 
 23. **Silicon Valley Sagas**
