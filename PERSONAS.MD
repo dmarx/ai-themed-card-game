@@ -81,6 +81,16 @@
    - Prompt: Powerful figures in a digital realm, controlling streams of binary data and overseeing AI kingdoms.
 
 
+PROMPT ENGINEER
+
+AI ARTIST
+
+NOTEBOOK DEVELOPER
+
+MODEL TRAINER
+
+CONTAINER CONNOISEUR
+
 ---
 
 ### Player Personas for "AI Assembly"
