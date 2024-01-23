@@ -1,3 +1,7 @@
+ A "Bug Fix" card might have a small chance to backfire, 
+ 
+---
+
 ### Resource Cards
 
 #### 1. Computational Power (CP) Card
