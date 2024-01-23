@@ -173,8 +173,43 @@ Localized Event Cards target specific players or conditions, introducing individ
 ---
 
 
+
+7. **Data Alliance**
+   - Prompt: Two figures shaking hands in a digital realm, symbolizing partnership, with flowing streams of data connecting them.
+
+8. **Global AI Conference**
+   - Prompt: A bustling global AI conference scene with diverse attendees, interactive displays, and AI demonstrations.
+
+---
+
+
+11. **Global Health Initiative**
+   - Prompt: A globe with digital connections, highlighting AI-driven health initiatives across various regions.
+
 5. **Market Monopoly**
    - Effect: The player with the most Influence Cards must give one card to the player with the least.
+
+---
+
+
+14. **Rapid Deployment**
+   - Prompt: Fast-moving conveyor belt in a high-tech factory rapidly assembling AI models, symbolizing speed and efficiency.
+
+15. **Influence Surge**
+   - Prompt: A figure radiating digital influence waves, impacting surrounding data structures and AI systems.
+
+16. **Data Lockdown**
+   - Prompt: A digital vault or barrier safeguarding a trove of data, symbolizing security and protection.
+
+17. **Resource Surge**
+   - Prompt: A dynamic surge of various resources (energy, data, capital) flowing into a central hub or AI core.
+
+---
+
+
+29. **Neural Singularity**
+   - Prompt: An abstract and complex neural network converging into a singularity point, symbolizing the peak of AI development.
+
 
 6. **Energy Crisis**
    - Effect: The player with the least Energy cannot use Energy resources for one turn.
