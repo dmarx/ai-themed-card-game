@@ -1,4 +1,29 @@
 
+### General Review and Balance Process
+
+#### Resource Cards
+- **Focus**: Ensure that the resource gains from these cards support various strategies and gameplay styles. 
+- **Balance Check**: Look for potential resource accumulation issues that could lead to imbalances in late-game scenarios.
+- **Simulation Example**: "[P1 gains +3 CP from 'Quantum Computing Cluster', enabling an early build of 'Neural Network Prototype'.]"
+
+#### AI Model Cards
+- **Focus**: Each tier (Basic, Advanced, Experimental) should offer progressively greater benefits but also require more significant investments.
+- **Balance Check**: Confirm that upgrading AI Models is a viable strategy and not overshadowed by other gameplay aspects.
+- **Simulation Example**: "[P2 upgrades 'Neural Network Prototype' to 'Self-Optimizing Algorithm', balancing resource expenditure with strategic advancement.]"
+
+#### Influence Cards
+- **Focus**: Influence cards should provide strategic alternatives to direct resource or AI model development.
+- **Balance Check**: Ensure that Influence Cards are powerful but not game-dominating. Influence actions should require careful planning.
+- **Simulation Example**: "[P3 uses 'Tech Tycoon' to convert Capital into Influence, setting up for a powerful influence action next turn.]"
+
+#### Ethical Dilemma Cards
+- **Focus**: These cards should present meaningful choices that impact player strategies and game outcomes.
+- **Balance Check**: Verify that the dilemmas offer a balanced risk-reward scenario and that their resolution methods are diverse and strategic.
+- **Simulation Example**: "[P1 faces 'Privacy vs Progress', choosing to gain 5 Data Points at the risk of losing Influence, affecting their standing with other players.]"
+
+---
+
+
 ### Recommended Card Effect Tuning
 
 1. **Experimental AI Models**:
