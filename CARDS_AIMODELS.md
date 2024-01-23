@@ -1,4 +1,11 @@
 
+10. **Social Media Moderation AI**:
+    - Effect: Implement strict moderation for +3 Ethical Points, or lenient for +5 DP.
+    - Description: "Your AI moderates social media content. Opt for stricter controls or a more lenient, growth-focused approach?"
+
+---
+
+
 ### AI Model Cards
 
 #### 1. Basic AI Model
