@@ -124,6 +124,8 @@ Localized Event Cards target specific players or conditions, introducing individ
 8. **Tech Industry Whistleblower**
    - The player with the highest IP loses half.
 
+"Hit piece/exposé" could work here too
+
 9. **Green Computing Movement**
    - Players with the least CP gain 5 CP.
 
