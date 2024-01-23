@@ -221,3 +221,11 @@ Localized Event Cards target specific players or conditions, introducing individ
 HACKATHON
 
 PARADIGM SHIFT
+
+DATA LEAKAGE
+
+MODEL LEAKED
+
+DATA POISONING
+
+INVALID BENCHMARK
