@@ -1,3 +1,64 @@
+### Resource Cards
+
+1. **Computational Power (CP) Cards**:
+   - Quantity: 30 cards
+   - Powers/Values: Ranges from +2 to +5 CP
+
+2. **Energy Cards**:
+   - Quantity: 30 cards
+   - Powers/Values: Ranges from +2 to +5 Energy
+
+3. **Capital Cards**:
+   - Quantity: 30 cards
+   - Powers/Values: Ranges from +3 to +6 Capital
+
+4. **Special Resource Cards** (e.g., "Quantum Computing Cluster"):
+   - Quantity: 10 cards
+   - Powers/Values: Provides specific advantages like doubling resource gains for one turn.
+
+### AI Model Cards
+
+1. **Basic AI Models** (e.g., "Neural Network Prototype"):
+   - Quantity: 20 cards
+   - Powers/Values: Gain 2 Data Points per turn
+
+2. **Advanced AI Models** (e.g., "Self-Optimizing Algorithm"):
+   - Quantity: 15 cards
+   - Powers/Values: Gain 5 Data Points per turn; can trade 2 Data Points for 1 CP
+
+3. **Experimental AI Models** (e.g., "Quantum AI Entity"):
+   - Quantity: 10 cards
+   - Powers/Values: Gain 10 Data Points per turn; high risk but high reward
+
+### Influence Cards
+
+1. **AI Guru Influencer Card** (e.g., "Charismatic AI Visionary"):
+   - Quantity: 10 cards
+   - Powers/Values: Double Influence Points for one turn
+
+2. **Corporate Power Influencer Card** (e.g., "Tech Tycoon"):
+   - Quantity: 10 cards
+   - Powers/Values: Convert up to 5 Capital into 10 Influence Points
+
+3. **Special Event Influence Cards** (e.g., "Global AI Summit"):
+   - Quantity: 10 cards
+   - Powers/Values: Special events that impact the game state, like reshuffling resource decks or forcing ethical dilemmas.
+
+### Ethical Dilemma Cards
+
+1. **Data Privacy Dilemma** (e.g., "Privacy vs Progress"):
+   - Quantity: 10 cards
+   - Powers/Values: Choose to gain Data Points with a risk or gain Ethical Points
+
+2. **AI Bias Dilemma** (e.g., "Algorithmic Bias Challenge"):
+   - Quantity: 10 cards
+   - Powers/Values: Choose to ignore for CP gain or address for Ethical Points
+
+3. **Global Impact Dilemmas** (e.g., "AI Labor Ethics"):
+   - Quantity: 10 cards
+   - Powers/Values: Dilemmas with broader game impact, affecting all players or changing game dynamics.
+
+
 
 ### Data Privacy Dilemma Cards
 
