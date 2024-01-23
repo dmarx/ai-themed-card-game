@@ -59,3 +59,24 @@ Private goals can reflect different ambitions or motivations in the tech world:
 
 4. **Crowd Pleaser**: Win a set number of public votes or popular decisions.
    - *Motivation*: Reflects a persona that thrives on public approval and community interaction, like tech influencers or community leaders.
+
+
+---
+
+### Private Goal Cards
+
+1. **Disruptor’s Dream**
+   - Prompt: A visionary character breaking a digital mold or barrier, symbolizing disruptive innovation.
+
+2. **Academic Achievement**
+   - Prompt: An academic setting with AI models and ethical books, highlighting the pursuit of knowledge and ethics in AI.
+
+---
+
+### Private Goal Cards (Example Titles)
+
+1. **Venture Victory**
+   - Prompt: A triumphant figure standing atop a podium with futuristic city and tech startup logos in the background.
+
+2. **Rookie Rise**
+   - Prompt: An enthusiastic young developer amidst coding screens, celebrating a breakthrough.
