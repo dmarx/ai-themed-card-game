@@ -1,3 +1,12 @@
+### 2. Ethical Balance
+
+- **Objective**: Advance AI while adhering to ethical standards.
+- **Gameplay Elements**:
+  - **Ethics Cards**: These present players with moral dilemmas and decisions that can affect their AI development positively or negatively.
+  - **Dual-Scoring System**: Players earn advancement points for AI development and ethics points for making moral decisions.
+  - **Balance Mechanic**: Players must maintain a balance between advancement and ethics; too much focus on one can lead to penalties or reduced points in the other.
+- **Strategy**: Players face a dynamic environment where ethical choices can significantly influence their AI development path.
+
 Focusing on "Data Domination," "Resource Acquisition," and "Faction Dominance" allows for a strategic and thematic depth to your game. Here's a more detailed look at each objective:
 
 ### 3. Data Domination
