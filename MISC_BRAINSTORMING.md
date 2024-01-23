@@ -1,4 +1,38 @@
 
+### Developing AI Model Development Mechanics
+
+1. **Define AI Model Tiers**:
+   - **Basic Models**: Require fewer resources, easier to build, but offer limited benefits.
+   - **Advanced Models**: More resource-intensive, provide significant strategic advantages.
+   - **Experimental Models**: High risk and high reward, require rare resources, offer unique game-changing abilities.
+
+2. **Model Obsolescence and Evolution**:
+   - Introduce a mechanic where AI Models can become obsolete after a certain number of turns, simulating the rapid advancement in AI technology.
+   - Players can upgrade obsolete models at a reduced resource cost, representing the evolution of technology.
+
+3. **Special Abilities of AI Models**:
+   - Certain AI Models can have abilities that affect other aspects of the game, like increasing resource collection efficiency, influencing public opinion, or resolving ethical dilemmas more effectively.
+
+### Creating Playtest Scenarios for AI Model Development
+
+1. **Scenario Design**:
+   - Create specific scenarios that test each tier of AI Models under various game conditions.
+   - Include situations where players must decide between upgrading existing models or building new ones.
+
+2. **Playtesting Goals**:
+   - Assess the balance between the different tiers of AI Models.
+   - Evaluate how the obsolescence and evolution mechanics affect long-term strategy.
+   - Observe how special abilities of AI Models influence gameplay and player decisions.
+
+3. **Data Collection**:
+   - Focus on gathering data about the effectiveness of different AI Models.
+   - Pay attention to player feedback regarding the enjoyment and strategic depth of AI model development.
+
+4. **Iterative Refinement**:
+   - Use the insights gained from playtesting to refine the AI Model mechanics.
+   - Adjust resource requirements, abilities, and obsolescence rules as needed to ensure balance and strategic variety.
+
+---
 ### Resource Management Section
 
 **Original Text**: "Players collect CP, Energy, and Capital at the beginning of their turn. These resources are used for building AI Models, influencing decisions, and resolving ethical dilemmas."
