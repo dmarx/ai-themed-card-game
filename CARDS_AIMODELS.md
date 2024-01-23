@@ -480,3 +480,6 @@ ASSISTANT
 35. **AI-Powered Disaster Response**
    - Prompt: AI robots and systems actively responding to a natural disaster, showcasing AI-driven emergency management.
 
+12. **Climate Change Modeling**
+   - Prompt: Futuristic AI interfaces displaying climate models, with a backdrop of a planet undergoing climate change.
+
