@@ -1,3 +1,6 @@
+ "Viral AI Tweet" or "Tech Conference Blunder" 
+ 
+---
 
 ### Global Event Cards
 
