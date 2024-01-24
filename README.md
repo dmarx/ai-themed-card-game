@@ -9,6 +9,7 @@
   * capital can be exchanged for compute
 * Data
   * raw -> refined
+    * refined data is worth more or has enhanced effect on model training
   * types by modality: text, image, other
   * could refer to units of data as "tokens"
   * capital can be exchanged for data
