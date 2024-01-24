@@ -3,14 +3,21 @@
 ## Resources
 
 * Capital
+  * can be exchanged for other resources
+  * can be used to purchase outputs or effects from hosted models
 * Compute
+  * capital can be exchanged for compute
 * Data
   * raw -> refined
   * types by modality: text, image, other
   * could refer to units of data as "tokens"
+  * capital can be exchanged for data
 * influence
   * reputation (h-index, ethical points)
   * reach (followers)
+  * capital can be exchanged for reach
+  * influence is treated as a resource
+  * ending the game with the most influence could be a win condition or private goal
 
 Capital can be used to purchase compute, data, and influence (just reach, not reputation).
 
