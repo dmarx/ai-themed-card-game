@@ -17,7 +17,8 @@
   * reach (followers)
   * capital can be exchanged for reach
   * influence is treated as a resource
-  * ending the game with the most influence could be a win condition or private goal
+  * ending the game with the most influence could be a win condition or private goal.
+    * actually, this works for any resource
 
 Capital can be used to purchase compute, data, and influence (just reach, not reputation).
 
