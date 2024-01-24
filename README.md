@@ -1,3 +1,5 @@
+🚧 🚧 **Work In Progress** 🚧 🚧
+
 # Structured High Level Notes
 
 ## Resources
