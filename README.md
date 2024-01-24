@@ -2,11 +2,12 @@
 
 ## Resources
 
-* Captial
+* Capital
 * Compute
 * Data
   * raw -> refined
   * types by modality: text, image, other
+  * could refer to units of data as "tokens"
 * influence
   * reputation (h-index, ethical points)
   * reach (followers)
@@ -24,6 +25,10 @@ Models have the following attributes
 * training compute cost: paying down the compute cost for training a model should take several turns. when the compute cost is paid down, the model has been "trained"
 * inference compute cost: a model can only be used to produce resources if the user has committed compute to the model, and the amount of output the model generates is proportional to the committed compute.
 * open source or not: once an open model is trained, any user can commit compute to it to generate resources. closed models can still be used by other players, but they have to pay capital to whoever owns the compute that is "serving" the model
+* open source models boost influence more, both reach and reputation.
+* both open source models and closed models generate capital. closed models don't generate influence until they've been upgraded to "experimental" status, or whatever the top of the skill tree is for AI model upgrade progression.
+* models are upgradeable
+
 
 ## Misc Mechanics
 
