@@ -29,4 +29,34 @@ Models have the following attributes
 
 * factions -> private goals
 * personas -> special abilities
-* ethical dilemmas -> what is gained by resolving?
+* ethical dilemmas -> reputation
+
+maybe "reputation" can be the "victory points" equivalent? or maybe some function of reputation and reach, so "whoever ends the game with the most influence wins". that tracks.
+
+## things/people to satirize
+
+* ai influencers
+* e/acc
+* decel
+* EY
+* agi doomerism
+* x-risk
+* safety researchers
+* capabees
+* geese
+* schmidhuber
+* gary marcus/brick wall
+* data annotation
+* duplicated data
+* copyright
+* fair use
+* data laundering
+* license laundering
+* open source
+* independent researchers
+* notebook/demo coders
+* neuroatypicality
+* degens
+* deepfakes
+* misinformation
+* glaze/nightshade - lol, could be a card that doesn't do anything
