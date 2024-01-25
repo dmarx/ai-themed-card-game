@@ -77,4 +77,9 @@ maybe "reputation" can be the "victory points" equivalent? or maybe some functio
 * degens
 * deepfakes
 * misinformation
-* glaze/nightshade - lol, could be a card that doesn't do anything
+* glaze/nightshade
+  - lol, could be a card that doesn't do anything.
+  - event card: -2 reputation, +1 reach
+* denoising diffusion
+* vae
+* low quality research code
