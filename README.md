@@ -150,7 +150,7 @@ limitless public data, private/sensitive data must be purchased
  * ending the game with the most influence could be a win condition or private goal.
    * actually, this works for any resource
 
-## 5. **hardware**
+## 5. **Hardware**
 
 Needed for compute/data upgrading and structuring.
 
@@ -158,6 +158,8 @@ Needed for compute/data upgrading and structuring.
  * consumed when structuring data ("joining" datasets... "storing"?)
 
 not a resource exactly. let's say when a player wants to "structure" their data/compute, they do so by expending capital to purchase hardware units. these hardware units are what give the data or compute its structure. if an event requires that the structure be dismantled, the hardware units are lost and no capital is returned. the data/compute can be res-structured again, but will require purchasing the hardware. hardware must be purchased on demand and is not a resource players will need to accumulate.
+
+maybe instead of "hardware" we could call this "networking"? partitioning?
 
 ### **playtesting notes**
 
