@@ -133,6 +133,8 @@ users need to upgrade compute to be able to play late game.
   * can inference simple models
 * compute level == 3
   * can inference complex models
+* after upgrading a compute unit to level 3, it can be "racked" with other level 3 compute units to form "HPC" clusters (required for late game model training, impacts throughput?)
+
 
 using lego plates, "level" is height of combined plates.
 
