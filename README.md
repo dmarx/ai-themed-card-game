@@ -83,6 +83,12 @@ maybe "reputation" can be the "victory points" equivalent? or maybe some functio
 * denoising diffusion
 * vae
 * low quality research code
+* remote work
+  * "Return-To-Office" could be a negative event
+* mental health
+  * burnout
+  * self-care
+* 10x developers
 
 # Playtesting notes
 
