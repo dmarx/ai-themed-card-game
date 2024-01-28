@@ -168,15 +168,13 @@ grey plates = "hardware"/"structure" units.
 - need structured compute to operate on structured data
 - structured data + structured compute --> satisfy requirements for "dense" models. model density correlates with influence capacity, SOTA scoring, model performance, etc.
 
-
+---
 
 # III. Models
 
 Compute and data are required inputs for crafting "models". refined data is worth extra, less data required for training when refined than when raw
 
 Models consume compute and produce capital and data. "shipping" a model increases influence (definitely reputation... reach too)
-
-
 
 - **Attributes**:
   - Data Types and Quantities required.
@@ -231,6 +229,8 @@ a model can only realize its influence by being utilized, so players are incenti
 
 track training progress for each model independently with a per-model progress bar reminiscent of `tqdm`
 
+---
+
 ## III.? SOTA Chasing
 
 what: some single model or small set of models is granted "SOTA" status.  
@@ -281,8 +281,6 @@ how:
    - Compute management with racking/networked clusters.
    - Compute homogeneity in clusters for efficiency.
 
-
-
 ---
 
 # V. Misc Playtesting Notes
@@ -295,25 +293,14 @@ how:
 - **Influence Accumulation**: Depends on model size and usage; larger models have higher "carrying capacity" for influence.
 - **Late Game Objectives**: Focus on building advanced models, chasing SOTA status, and accumulating influence.
 
-
-
 early game: acquire capital to secure compute
 
 mid game: build artifacts to gain reputation
 
 late game: leverage reputation to build advanced artifacts (which require some threshold reputation to be developed), chase SOTA (associated with a reach bonus), accumulate influence
 
-
-
 - **Extra Point Objectives**: Awarded for controlling the most advanced compute cluster or the current SOTA model.
-
 
 extra point objectives similar to longest road/largest army in catan
 - player who controls current SOTA artifact
 - player who controls most powerful/advanced compute cluster
-
-
----
----
-
-
