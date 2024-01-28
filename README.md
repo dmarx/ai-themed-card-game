@@ -35,11 +35,11 @@
 
 ### 2.1 Scaling Compute
 
-   - each compute node has a "generation", represents vertical scaling
-   - compute nodes can be combined into "clusters", must be homogeneous by generation/level (compatibility/bottlenecking)
-     * compute units can be combined into upgraded compute (level 1,2,3), but if paying a compute cost the compute will "parallelize" and be bottlenecked by the lowest level of compute in the ~~"cluster"~~ collection of committed compute resources (needs different name from cluster) 
+Both horizontal and vertical scaling dynamics.
 
-### 2.2 Upgrading Compute
+- vertical: each compute node has a "generation"
+- horizontal: compute nodes can be combined into "clusters", must be homogeneous by generation/level (compatibility/bottlenecking)
+  * compute units can be combined into upgraded compute (level 1,2,3), but if paying a compute cost the compute will "parallelize" and be bottlenecked by the lowest level of compute in the ~~"cluster"~~ collection of committed compute resources (needs different name from cluster) 
 
 * upgrading (combining/racking) compute could be a card effect.
   * e.g. play "slurm" card to your board: "pay $x to upgrade compute units once per turn"
@@ -143,6 +143,8 @@ limitless public data, private/sensitive data must be purchased
    * actually, this works for any resource
 
 ## 5. **hardware**
+
+Needed for compute/data upgrading and structuring.
 
  * consumed when structuring compute ("racking" compute nodes into clusters)
  * consumed when structuring data ("joining" datasets... "storing"?)
@@ -283,8 +285,8 @@ late game: leverage reputation to build advanced artifacts (which require some t
 
 # VII. Additional Mechanics and Concepts
 
-- **Hardware Resource**: Needed for compute/data upgrading and structuring.
-- **Compute Scaling**: Both horizontal and vertical scaling dynamics.
+
+
 - **Public Compute Clusters**: Can be developed, rented, or reserved by players.
 - **Extra Point Objectives**: Awarded for controlling the most advanced compute cluster or the current SOTA model.
 
