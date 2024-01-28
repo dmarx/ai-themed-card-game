@@ -168,3 +168,5 @@ data could have a "sensitivity" attribute, such that high value data like PII co
 
 
 data could be easy to generate but hard to store. a player's private "data lake" is something they can invest in to increase their storage capacity, but if they want to train a model that requires more data than they can store, they have to use public data and make the model public. conversely, they can donate data to the public lake (nom-sensitive data only) for a benefit of some kind, like a small gain in influence. so if a user doesn't grow their lake, they can't train large private models and will be incentivized to contribute to the public data pool.
+
+building a model of a given size doesn't give you influence immediately. the size of the model dictates its maximum "carrying capacity" for influence, but you only actually get that influence through use. this is part of why users are incentivized to publish public models: public models have more opportunity to be used and to carry influence points for the model's owner.
