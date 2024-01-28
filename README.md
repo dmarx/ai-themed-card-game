@@ -9,6 +9,9 @@ Working Name: AI Assembly
 * Capital
   * can be exchanged for other resources
   * can be used to purchase outputs or effects from hosted models
+* energy
+  * compute has an associated energy cost whcih needs to be paid down in capital to utilize compute
+  * could alternatively structure this such that compute is all "cloud compute" and incurs a capital cost to be "rented"
 * Compute
   * capital can be exchanged for compute
 * Data
@@ -17,6 +20,9 @@ Working Name: AI Assembly
   * types by modality: text, image, other
   * could refer to units of data as "tokens"
   * capital can be exchanged for data
+* hardware
+  * consumed when structuring compute ("racking" compute nodes into clusters)
+  * consumed when structuring data ("joining" datasets... "storing"?)
 * influence
   * reputation (h-index, ethical points)
   * reach (followers)
