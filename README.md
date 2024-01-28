@@ -112,11 +112,6 @@ refining data = assigning a modality.
 additional potential modalities:
   - user activity/telemetry
 
-compute committed to trained models generates raw data.
-
-upgraded models can generate refined data and/or refine raw data.
-
-
 data could have a "sensitivity" attribute, such that high value data like PII could be modeled as "high sensitivity" data which is only available to players with above some threshold reputation (or "ethics points" or whatever). higher data sensitivity correlates with higher capital generation from models built with that data
 
 
@@ -168,6 +163,7 @@ Compute and data are required inputs for crafting "models". refined data is wort
 Models consume compute and produce capital and data. "shipping" a model increases influence (definitely reputation... reach too)
 
 
+
 - **Attributes**:
   - Data Types and Quantities required.
     - some amount of data of whichever modalities required to train the model 
@@ -195,6 +191,12 @@ Models consume compute and produce capital and data. "shipping" a model increase
 **playtesting notes**
 
 data represented by consumed tokens that are organized and combined into a "buit" model. each turn, compute must be committed to "build" the model from its component data. The model recipe should have a "RAM" threshold or some such which bottlenecks the rate at which compute can be utilized (or data consumed? both?) to assemble the model
+
+
+compute committed to trained models generates raw data.
+
+upgraded models can generate refined data and/or refine raw data.
+
 
 models can be distributed as cards from the deck. the card isn't the model: it's a training recipe.
 
