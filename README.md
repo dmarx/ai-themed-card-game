@@ -229,6 +229,8 @@ carrying capacity for influence grows quadratically with model size to incentivi
 
 a model can only realize its influence by being utilized, so players are incentivized to release public models to give them more opportunity to be used
 
+track training progress for each model independently with a per-model progress bar reminiscent of `tqdm`
+
 ## III.? SOTA Chasing
 
 what: some single model or small set of models is granted "SOTA" status.  
