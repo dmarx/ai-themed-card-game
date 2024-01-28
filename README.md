@@ -174,3 +174,5 @@ building a model of a given size doesn't give you influence immediately. the siz
 carrying capacity for influence grows quadratically with model size to incentivize players building larger (i.e. more complex) models rather than just building lots of small models (which may still be an effective strategy
 
 a model can only realize its influence by being utilized, so players are incentivized to release public models to give them more opportunity to be used
+
+some single model or small set of models is granted "SOTA" status. for now, let's say the single largest/most complex model on the table, and the number of SOTA models could scale with the number of players. the current SOTA model generates outputs faster than all the other models, let's say generates 50% more data/influence per inference. this incentivizes players to chase SOTA and to use other players' models (if other players own the current SOTA).
