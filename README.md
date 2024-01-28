@@ -85,6 +85,10 @@ alternatively: compute only lives in cloud. as such, compute can't be purchased,
 limited compute incentivizes players to share models -> i can't use my compute to train bigger models if you're using my compute to inference my models
 
 
+compute could be represented by tiles on a game board. like catan's road building, users can interfere with contiguity of each other's future compute resources by claiming tiles that block them from expanding their cluster as they need to, akin to monopolizing the compute in a regional datacenter
+- compute could be assigned to regions, such that users can only build contiguous clusters of compute that shares a region
+- compute in a region could grow/shrink subject to event cards
+
 - **Periodic Compute Generation Milestones**
    - Impact on compute availability and strategy.
 
