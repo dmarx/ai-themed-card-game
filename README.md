@@ -148,6 +148,14 @@ limitless public data, private/sensitive data must be purchased
     * consumed when structuring compute ("racking" compute nodes into clusters)
     * consumed when structuring data ("joining" datasets... "storing"?)
 
+### **playtesting notes**
+
+
+grey plates = "hardware"/"structure" units.
+- need structured compute to operate on structured data
+- structured data + structured compute --> satisfy requirements for "dense" models. model density correlates with influence capacity, SOTA scoring, model performance, etc.
+
+
 ---
 
 ---
@@ -261,6 +269,14 @@ some single model or small set of models is granted "SOTA" status. for now, let'
 - **Influence Accumulation**: Depends on model size and usage; larger models have higher "carrying capacity" for influence.
 - **Late Game Objectives**: Focus on building advanced models, chasing SOTA status, and accumulating influence.
 
+
+
+early game: acquire capital to secure compute
+
+mid game: build artifacts to gain reputation
+
+late game: leverage reputation to build advanced artifacts (which require some threshold reputation to be developed), chase SOTA (associated with a reach bonus), accumulate influence
+
 ---
 
 # VII. Additional Mechanics and Concepts
@@ -270,25 +286,13 @@ some single model or small set of models is granted "SOTA" status. for now, let'
 - **Public Compute Clusters**: Can be developed, rented, or reserved by players.
 - **Extra Point Objectives**: Awarded for controlling the most advanced compute cluster or the current SOTA model.
 
----
----
-
-
-# Playtesting notes
-
-
-early game: acquire capital to secure compute
-
-mid game: build artifacts to gain reputation
-
-late game: leverage reputation to build advanced artifacts (which require some threshold reputation to be developed), chase SOTA (associated with a reach bonus), accumulate influence
-
-
-grey plates = "hardware"/"structure" units.
-- need structured compute to operate on structured data
-- structured data + structured compute --> satisfy requirements for "dense" models. model density correlates with influence capacity, SOTA scoring, model performance, etc.
 
 extra point objectives similar to longest road/largest army in catan
 - player who controls current SOTA artifact
 - player who controls most powerful/advanced compute cluster
+
+
+---
+---
+
 
