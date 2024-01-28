@@ -1,20 +1,19 @@
-### Game Design Document
+# Game Design Document
 
 🚧 🚧 **Work In Progress** 🚧 🚧
 
-
-#### Working Title: AI Assembly
+**Working Title:** AI Assembly
 
 ---
 
-#### I. Overview
+# I. Overview
 
 - **Theme**: Artificial Intelligence Development
 - **Objective**: Compete to build and optimize AI models, acquire various resources, and gain influence in the AI community.
 
 ---
 
-#### II. Resources
+# II. Resources
 
 1. **Capital**
    - Exchanged for other resources.
@@ -154,7 +153,7 @@ limited compute incentivizes players to share models -> i can't use my compute t
 
 ---
 
-#### III. Models
+# III. Models
 
 Compute and data are required inputs for crafting "models". refined data is worth extra, less data required for training when refined than when raw
 
@@ -208,7 +207,7 @@ some single model or small set of models is granted "SOTA" status. for now, let'
 
 ---
 
-#### IV. Game Mechanics
+# IV. Game Mechanics
 
 1. **Factions**
    - Associated with private goals.
@@ -244,13 +243,13 @@ some single model or small set of models is granted "SOTA" status. for now, let'
 
 ---
 
-#### V. Satirical Elements
+# V. Satirical Elements
 
 - Satirical references include AI influencers, AGI doomerism, safety researchers, data annotation quirks, open source culture, and specific AI theories/personalities.
 
 ---
 
-#### VI. Playtesting Notes
+# VI. Playtesting Notes
 
 - **Model Cards**: Represent AI model training recipes.
 - **Data Cost**: Specific to each model, with minimum requirements for modalities and overall data.
@@ -262,7 +261,7 @@ some single model or small set of models is granted "SOTA" status. for now, let'
 
 ---
 
-#### VII. Additional Mechanics and Concepts
+# VII. Additional Mechanics and Concepts
 
 - **Hardware Resource**: Needed for compute/data upgrading and structuring.
 - **Compute Scaling**: Both horizontal and vertical scaling dynamics.
