@@ -157,6 +157,8 @@ Needed for compute/data upgrading and structuring.
  * consumed when structuring compute ("racking" compute nodes into clusters)
  * consumed when structuring data ("joining" datasets... "storing"?)
 
+not a resource exactly. let's say when a player wants to "structure" their data/compute, they do so by expending capital to purchase hardware units. these hardware units are what give the data or compute its structure. if an event requires that the structure be dismantled, the hardware units are lost and no capital is returned. the data/compute can be res-structured again, but will require purchasing the hardware. hardware must be purchased on demand and is not a resource players will need to accumulate.
+
 ### **playtesting notes**
 
 
