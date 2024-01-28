@@ -163,3 +163,6 @@ late game models have higher minimum batch size, forcing players to construct (u
 add a new construction resource, e.g. "hardware" - plates consumed when upgrading
 * "joining" datasets - date upgrade mechanic!
 * orchestrating compute into "networked" clusters
+
+data could have a "sensitivity" attribute, such that high value data like PII could be modeled as "high sensitivity" data which is only available to players with above some threshold reputation (or "ethics points" or whatever). higher data sensitivity correlates with higher capital generation from models built with that data
+
