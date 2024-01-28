@@ -218,8 +218,26 @@ carrying capacity for influence grows quadratically with model size to incentivi
 
 a model can only realize its influence by being utilized, so players are incentivized to release public models to give them more opportunity to be used
 
-some single model or small set of models is granted "SOTA" status. for now, let's say the single largest/most complex model on the table, and the number of SOTA models could scale with the number of players. the current SOTA model generates outputs faster than all the other models, let's say generates 50% more data/influence per inference. this incentivizes players to chase SOTA and to use other players' models (if other players own the current SOTA).
+## III.? SOTA Chasing
 
+what: some single model or small set of models is granted "SOTA" status.  
+
+why: incentivizes players to chase SOTA and to use other players' models (if other players own the current SOTA).
+
+how:
+
+* for now, let's say the single largest/most complex model on the table
+* alternatively, could be model that currently has most reputation, so users can get into end-game racing
+* the number of SOTA models could scale with the number of players.
+
+
+**Benefits of having the SOTA model**
+
+* similar to "longest road" in catan
+  * associated with some VP bonus that follows the "SOTA" label
+* generates outputs faster
+  * let's say generates 50% more data/influence per inference.
+ 
 ---
 
 # IV. Game Mechanics
