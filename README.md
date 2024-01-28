@@ -255,7 +255,7 @@ how:
  
 ---
 
-# IV. Game Mechanics
+# IV. Misc Game Mechanics
 
 1. **Factions**
    - Associated with private goals.
@@ -283,7 +283,7 @@ how:
 
 ---
 
-# VI. Playtesting Notes
+# V. Misc Playtesting Notes
 
 - **Model Cards**: Represent AI model training recipes.
 - **Data Cost**: Specific to each model, with minimum requirements for modalities and overall data.
