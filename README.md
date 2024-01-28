@@ -102,9 +102,38 @@ upgraded models can generate refined data and/or refine raw data.
 
 alternatively, "refine" could be a card effect, or something the player always has the option to do (e.g. mechanical turk)
   - tying refinement to cards also makes it so we can control the relative distribution/value of different modalities.
-  - we want at least one modality to be particularly rare or costly relative to the others to drive a player economy (trading, strategizing)
+  - we want at least one modality to be particularly rare or costly relative to the others to drive a player economy (trading, strategizing) 
     - users can build strategies aiming at certain modalities
     - some chosen modality -> refinement favors data of that modality -> strategy focuses on building models tied to that modality
       - modalities could characterize different model special effects?
 
 users available uncommitted data could be refferred to as their "data lake". assembled models could be housed in their "model registry", or "production" <- productionize models
+
+refining data = assigning a modality.
+
+additionalpotential modalities:
+  - user activity/telemetry
+
+computecan be subject to homogeneity compatibility. compute units can be combined into upgraded compute (level 1,2,3), but if paying a compute cost the compute will "parallelize" and be bottlenecked by the lowest level of compute in the "cluster".
+
+upgrading (combining/racking) compute can be a card effect. e.g. play "slurm" card to your board: "pay $x to upgrade compute units once per turn"
+
+available of compute should be one of the slowest growing things in the game. compute will be a heavily fought over resource. 
+
+let there be a small pool of "free" compute which any player can utilize, but only subject to a "reset" period to prevent any one user from monopolizing all free compute.
+
+data represented by loss tokens that are organized and combined into a "buit" model. each turn, compute must be committed to "build" the model from its component data. The model recipe should have a "RAM" threshold or some such which bottlenecks the rate at which compute can be utilized (or data consumed? both?) to assemble the model
+
+users need to upgrade compute to be able to play late game. 
+
+* compute level >=1
+  * can refine data  
+* compute level >=2
+  * can build models
+  * can inference simple models
+* compute level == 3
+  * can inference complex models
+
+using lego plates, "level" is height of combined plates.
+
+data is similarly combined as the upgrading procedure when building models, which gives the dataset/model a "level" in terms of plate height units as well, which determines compute compatibility for training/inference
