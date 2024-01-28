@@ -166,3 +166,5 @@ add a new construction resource, e.g. "hardware" - plates consumed when upgradin
 
 data could have a "sensitivity" attribute, such that high value data like PII could be modeled as "high sensitivity" data which is only available to players with above some threshold reputation (or "ethics points" or whatever). higher data sensitivity correlates with higher capital generation from models built with that data
 
+
+data could be easy to generate but hard to store. a player's private "data lake" is something they can invest in to increase their storage capacity, but if they want to train a model that requires more data than they can store, they have to use public data and make the model public. conversely, they can donate data to the public lake (nom-sensitive data only) for a benefit of some kind, like a small gain in influence. so if a user doesn't grow their lake, they can't train large private models and will be incentivized to contribute to the public data pool.
