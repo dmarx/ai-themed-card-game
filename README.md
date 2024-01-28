@@ -29,22 +29,24 @@
      * compute could have an associated energy cost whcih needs to be paid down in capital to utilize compute
      * could alternatively structure this such that compute is all "cloud compute" and only incurs a capital cost, i.e. to be "rented"
    - units of compute called be called "nodes"
+   - available compute should be one of the slowest growing things in the game. compute will be a heavily fought over resource.
+     - let there be a small pool of "free" compute (simulates colab/kaggle) which any player can utilize, but only subject to a "reset" period to prevent any one user from monopolizing all free compute.
+
+
+### 2.1 Scaling Compute
+
    - each compute node has a "generation", represents vertical scaling
-   - compute nodes can be combined into "clusters", must be homogeneous by generation
+   - compute nodes can be combined into "clusters", must be homogeneous by generation/level (compatibility/bottlenecking)
+     * compute units can be combined into upgraded compute (level 1,2,3), but if paying a compute cost the compute will "parallelize" and be bottlenecked by the lowest level of compute in the ~~"cluster"~~ collection of committed compute resources (needs different name from cluster) 
+
+### 2.2 Upgrading Compute
+
+* upgrading (combining/racking) compute could be a card effect.
+  * e.g. play "slurm" card to your board: "pay $x to upgrade compute units once per turn"
 
 
 #### **playtesting notes**
 
-
-compute can be subject to homogeneity compatibility. compute units can be combined into upgraded compute (level 1,2,3), but if paying a compute cost the compute will "parallelize" and be bottlenecked by the lowest level of compute in the "cluster".
-
-upgrading (combining/racking) compute can be a card effect. e.g. play "slurm" card to your board: "pay $x to upgrade compute units once per turn"
-
-available of compute should be one of the slowest growing things in the game. compute will be a heavily fought over resource. 
-
-let there be a small pool of "free" compute which any player can utilize, but only subject to a "reset" period to prevent any one user from monopolizing all free compute.
-
-data represented by loss tokens that are organized and combined into a "buit" model. each turn, compute must be committed to "build" the model from its component data. The model recipe should have a "RAM" threshold or some such which bottlenecks the rate at which compute can be utilized (or data consumed? both?) to assemble the model
 
 users need to upgrade compute to be able to play late game. 
 
@@ -191,6 +193,8 @@ Models consume compute and produce capital and data. "shipping" a model increase
   - Closed (Capital generation; Influence post-upgrade).
 
 **playtesting notes**
+
+data represented by consumed tokens that are organized and combined into a "buit" model. each turn, compute must be committed to "build" the model from its component data. The model recipe should have a "RAM" threshold or some such which bottlenecks the rate at which compute can be utilized (or data consumed? both?) to assemble the model
 
 models can be distributed as cards from the deck. the card isn't the model: it's a training recipe.
 
