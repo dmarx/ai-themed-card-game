@@ -95,6 +95,9 @@ maybe "reputation" can be the "victory points" equivalent? or maybe some functio
   * tensor parallel
   * zero offload/infinity
   * k8s/knative/serverless
+* x is all you need
+  * transformers/scaling/diffusion/vae/skip connections/dropout/more layers
+* scaling laws
 
 # Playtesting notes
 
