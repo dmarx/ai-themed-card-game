@@ -31,6 +31,7 @@
    - units of compute called be called "nodes"
    - available compute should be one of the slowest growing things in the game. compute will be a heavily fought over resource.
      - let there be a small pool of "free" compute (simulates colab/kaggle) which any player can utilize, but only subject to a "reset" period to prevent any one user from monopolizing all free compute.
+     - - **Public Compute Clusters**: Can be developed, rented, or reserved by players.
 
 
 ### 2.1 Scaling Compute
@@ -255,11 +256,6 @@ some single model or small set of models is granted "SOTA" status. for now, let'
 9. **Compute Rental Concept**
    - Compute is rented, not owned; strategic management of compute rental.
 
----
-
-# V. Satirical Elements
-
-- Satirical references include AI influencers, AGI doomerism, safety researchers, data annotation quirks, open source culture, and specific AI theories/personalities.
 
 ---
 
@@ -281,13 +277,8 @@ mid game: build artifacts to gain reputation
 
 late game: leverage reputation to build advanced artifacts (which require some threshold reputation to be developed), chase SOTA (associated with a reach bonus), accumulate influence
 
----
-
-# VII. Additional Mechanics and Concepts
 
 
-
-- **Public Compute Clusters**: Can be developed, rented, or reserved by players.
 - **Extra Point Objectives**: Awarded for controlling the most advanced compute cluster or the current SOTA model.
 
 
