@@ -83,13 +83,14 @@ limited compute incentivizes players to share models -> i can't use my compute t
 
 
 ## 3. **Data**
-    * raw -> refined
-      * refined data is worth more or has enhanced effect on model training
-    * types by modality: text, image, other
-      * "refinement" could just be assigning to a modality
-      * modality assignment could be an effect granted by a card, which would let us control distribution of data modality to make certain modalities more valuable, encourage a trading economy
-    * could refer to units of data as "tokens"
-    * capital can be exchanged for data
+
+ * raw -> refined
+   * refined data is worth more or has enhanced effect on model training
+ * types by modality: text, image, other
+   * "refinement" could just be assigning to a modality
+   * modality assignment could be an effect granted by a card, which would let us control distribution of data modality to make certain modalities more valuable, encourage a trading economy
+ * could refer to units of data as "tokens"
+ * capital can be exchanged for data
 
 
 ### **playtesting notes**
