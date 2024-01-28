@@ -172,3 +172,5 @@ data could be easy to generate but hard to store. a player's private "data lake"
 building a model of a given size doesn't give you influence immediately. the size of the model dictates its maximum "carrying capacity" for influence, but you only actually get that influence through use. this is part of why users are incentivized to publish public models: public models have more opportunity to be used and to carry influence points for the model's owner.
 
 carrying capacity for influence grows quadratically with model size to incentivize players building larger (i.e. more complex) models rather than just building lots of small models (which may still be an effective strategy
+
+a model can only realize its influence by being utilized, so players are incentivized to release public models to give them more opportunity to be used
