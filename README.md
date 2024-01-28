@@ -15,14 +15,14 @@
 
 # II. Resources
 
-1. **Capital**
+## 1. **Capital**
    - Exchanged for other resources.
    - Used to purchase outputs/effects from models served by other users.
      - served = compute committed to inferencing that model
    - units of capital could be called "credits"
    - Capital can be used to purchase compute, data, and influence (just reach, not reputation).
 
-2. **Compute**
+## 2. **Compute**
    - Acquired with capital.
    - Necessary for model crafting and training.
    - Energy cost?
@@ -32,7 +32,7 @@
    - each compute node has a "generation", represents vertical scaling
    - compute nodes can be combined into "clusters", must be homogeneous by generation
 
-3. **Data**
+## 3. **Data**
     * raw -> refined
       * refined data is worth more or has enhanced effect on model training
     * types by modality: text, image, other
@@ -41,7 +41,7 @@
     * could refer to units of data as "tokens"
     * capital can be exchanged for data
 
-4. **Influence**
+## 4. **Influence**
     * reputation (h-index, ethical points)
     * reach (followers)
     * capital can be exchanged for reach
@@ -49,7 +49,7 @@
     * ending the game with the most influence could be a win condition or private goal.
       * actually, this works for any resource
 
-5. **hardware**
+## 5. **hardware**
     * consumed when structuring compute ("racking" compute nodes into clusters)
     * consumed when structuring data ("joining" datasets... "storing"?)
 
