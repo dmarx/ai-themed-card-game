@@ -46,7 +46,7 @@ Both horizontal and vertical scaling dynamics.
   * e.g. play "slurm" card to your board: "pay $x to upgrade compute units once per turn"
 
 
-#### **playtesting notes**
+### **playtesting notes**
 
 
 users need to upgrade compute to be able to play late game. 
@@ -84,16 +84,25 @@ alternatively: compute only lives in cloud. as such, compute can't be purchased,
 
 limited compute incentivizes players to share models -> i can't use my compute to train bigger models if you're using my compute to inference my models
 
-
-compute could be represented by tiles on a game board. like catan's road building, users can interfere with contiguity of each other's future compute resources by claiming tiles that block them from expanding their cluster as they need to, akin to monopolizing the compute in a regional datacenter
-- compute could be assigned to regions, such that users can only build contiguous clusters of compute that shares a region
-- compute in a region could grow/shrink subject to event cards
-
 - **Periodic Compute Generation Milestones**
    - Impact on compute availability and strategy.
 
 - **Compute Rental Concept**
    - Compute is rented, not owned; strategic management of compute rental.
+
+### exploring potential for compute represented by game board
+
+compute could be represented by tiles on a game board. like catan's road building, users can interfere with contiguity of each other's future compute resources by claiming tiles that block them from expanding their cluster as they need to, akin to monopolizing the compute in a regional datacenter
+
+- compute could be assigned to regions, such that users can only build contiguous clusters of compute that shares a region
+- compute in a region could grow/shrink subject to event cards
+
+* player wants (cloud) compute, they pay market rate to place a "reserve" on a node, which effectively claims the tile.
+* rent must be paid to maintain posession of a node. if a user stops paying for it, the node is released back into public availability
+* node is reserved by placing some physical token on it
+* nodes in same region can be "racked" together into clusters
+* clusters must be comprised of nodes in the same region and generation
+
 
 
 ## 3. **Data** ("tokens")
