@@ -137,16 +137,18 @@ limitless public data, private/sensitive data must be purchased
 
 
 ## 4. **Influence**
-    * reputation (h-index, ethical points)
-    * reach (followers)
-    * capital can be exchanged for reach
-    * influence is treated as a resource
-    * ending the game with the most influence could be a win condition or private goal.
-      * actually, this works for any resource
+
+ * reputation (h-index, ethical points)
+ * reach (followers)
+ * capital can be exchanged for reach
+ * influence is treated as a resource
+ * ending the game with the most influence could be a win condition or private goal.
+   * actually, this works for any resource
 
 ## 5. **hardware**
-    * consumed when structuring compute ("racking" compute nodes into clusters)
-    * consumed when structuring data ("joining" datasets... "storing"?)
+
+ * consumed when structuring compute ("racking" compute nodes into clusters)
+ * consumed when structuring data ("joining" datasets... "storing"?)
 
 ### **playtesting notes**
 
@@ -156,12 +158,6 @@ grey plates = "hardware"/"structure" units.
 - structured data + structured compute --> satisfy requirements for "dense" models. model density correlates with influence capacity, SOTA scoring, model performance, etc.
 
 
----
-
----
-
-
----
 
 # III. Models
 
