@@ -85,10 +85,10 @@ alternatively: compute only lives in cloud. as such, compute can't be purchased,
 limited compute incentivizes players to share models -> i can't use my compute to train bigger models if you're using my compute to inference my models
 
 
-8. **Periodic Compute Generation Milestones**
+- **Periodic Compute Generation Milestones**
    - Impact on compute availability and strategy.
 
-9. **Compute Rental Concept**
+- **Compute Rental Concept**
    - Compute is rented, not owned; strategic management of compute rental.
 
 
