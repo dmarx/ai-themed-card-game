@@ -1,4 +1,4 @@
-### AI Assembly - Game Design Document
+### Game Design Document
 
 🚧 🚧 **Work In Progress** 🚧 🚧
 
