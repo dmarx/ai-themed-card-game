@@ -15,14 +15,14 @@
 
 # II. Resources
 
-## 1. **Capital**
+## 1. **Capital** ("credits")
    - Exchanged for other resources.
    - Used to purchase outputs/effects from models served by other users.
      - served = compute committed to inferencing that model
    - units of capital could be called "credits"
    - Capital can be used to purchase compute, data, and influence (just reach, not reputation).
 
-## 2. **Compute**
+## 2. **Compute** ("nodes")
    - Acquired with capital.
    - Necessary for model crafting and training.
    - Energy cost?
@@ -92,7 +92,7 @@ limited compute incentivizes players to share models -> i can't use my compute t
    - Compute is rented, not owned; strategic management of compute rental.
 
 
-## 3. **Data**
+## 3. **Data** ("tokens")
 
  * raw -> refined
    * refined data is worth more or has enhanced effect on model training
@@ -141,7 +141,7 @@ limitless public data, private/sensitive data must be purchased
 
 
 
-## 4. **Influence**
+## 4. **Influence** ("reputation" + "reach")
 
  * reputation (h-index, ethical points)
  * reach (followers)
