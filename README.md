@@ -32,77 +32,8 @@
    - each compute node has a "generation", represents vertical scaling
    - compute nodes can be combined into "clusters", must be homogeneous by generation
 
-## 3. **Data**
-    * raw -> refined
-      * refined data is worth more or has enhanced effect on model training
-    * types by modality: text, image, other
-      * "refinement" could just be assigning to a modality
-      * modality assignment could be an effect granted by a card, which would let us control distribution of data modality to make certain modalities more valuable, encourage a trading economy
-    * could refer to units of data as "tokens"
-    * capital can be exchanged for data
 
-## 4. **Influence**
-    * reputation (h-index, ethical points)
-    * reach (followers)
-    * capital can be exchanged for reach
-    * influence is treated as a resource
-    * ending the game with the most influence could be a win condition or private goal.
-      * actually, this works for any resource
-
-## 5. **hardware**
-    * consumed when structuring compute ("racking" compute nodes into clusters)
-    * consumed when structuring data ("joining" datasets... "storing"?)
-
----
-
-#### II.B Data
-
-**playtesting notes**
-
-
-alternatively, "refine" could be a card effect, or something the player always has the option to do (e.g. mechanical turk)
-  - tying refinement to cards also makes it so we can control the relative distribution/value of different modalities.
-  - we want at least one modality to be particularly rare or costly relative to the others to drive a player economy (trading, strategizing) 
-    - users can build strategies aiming at certain modalities
-    - some chosen modality -> refinement favors data of that modality -> strategy focuses on building models tied to that modality
-      - modalities could characterize different model special effects?
-
-users available uncommitted data could be refferred to as their "data lake". assembled models could be housed in their "model registry", or "production" <- productionize models
-
-refining data = assigning a modality.
-
-additional potential modalities:
-  - user activity/telemetry
-
-compute committed to trained models generates raw data.
-
-upgraded models can generate refined data and/or refine raw data.
-
-
-data could have a "sensitivity" attribute, such that high value data like PII could be modeled as "high sensitivity" data which is only available to players with above some threshold reputation (or "ethics points" or whatever). higher data sensitivity correlates with higher capital generation from models built with that data
-
-
-data could be easy to generate but hard to store. a player's private "data lake" is something they can invest in to increase their storage capacity, but if they want to train a model that requires more data than they can store, they have to use public data and make the model public. conversely, they can donate data to the public lake (nom-sensitive data only) for a benefit of some kind, like a small gain in influence. so if a user doesn't grow their lake, they can't train large private models and will be incentivized to contribute to the public data pool.
-
-
-data is similarly combined as the upgrading procedure when building models, which gives the dataset/model a "level" in terms of plate height units as well, which determines compute compatibility for training/inference
-
-model training could have a minimum batch size. part of the data refinement mechanism could be combining data units of the same modelity into larger data sets (2x2 plate green -> 2x4 green plate)
-
-late game models have higher minimum batch size, forcing players to construct (upgrade their data into) larger datasets.
-* larger datasets constructed by "joining" datasets (literally, lol). data upgrade can be an effect similar to compute upgrade
-
-add a new construction resource, e.g. "hardware" - plates consumed when upgrading
-* "joining" datasets - date upgrade mechanic!
-* orchestrating compute into "networked" clusters
-
-limitless public data, private/sensitive data must be purchased
-
----
-
-#### II.C Compute
-
-**playtesting notes**
+#### **playtesting notes**
 
 
 compute can be subject to homogeneity compatibility. compute units can be combined into upgraded compute (level 1,2,3), but if paying a compute cost the compute will "parallelize" and be bottlenecked by the lowest level of compute in the "cluster".
@@ -149,6 +80,76 @@ compute clusters are public resources. a player owns the compute cluster they de
 alternatively: compute only lives in cloud. as such, compute can't be purchased, only rented. if you can't pay rent on your compute, it is released back to cloud availability for other users to rent on demand or to "purchase" (rent on reserve).
 
 limited compute incentivizes players to share models -> i can't use my compute to train bigger models if you're using my compute to inference my models
+
+
+## 3. **Data**
+    * raw -> refined
+      * refined data is worth more or has enhanced effect on model training
+    * types by modality: text, image, other
+      * "refinement" could just be assigning to a modality
+      * modality assignment could be an effect granted by a card, which would let us control distribution of data modality to make certain modalities more valuable, encourage a trading economy
+    * could refer to units of data as "tokens"
+    * capital can be exchanged for data
+
+
+### **playtesting notes**
+
+
+alternatively, "refine" could be a card effect, or something the player always has the option to do (e.g. mechanical turk)
+  - tying refinement to cards also makes it so we can control the relative distribution/value of different modalities.
+  - we want at least one modality to be particularly rare or costly relative to the others to drive a player economy (trading, strategizing) 
+    - users can build strategies aiming at certain modalities
+    - some chosen modality -> refinement favors data of that modality -> strategy focuses on building models tied to that modality
+      - modalities could characterize different model special effects?
+
+users available uncommitted data could be refferred to as their "data lake". assembled models could be housed in their "model registry", or "production" <- productionize models
+
+refining data = assigning a modality.
+
+additional potential modalities:
+  - user activity/telemetry
+
+compute committed to trained models generates raw data.
+
+upgraded models can generate refined data and/or refine raw data.
+
+
+data could have a "sensitivity" attribute, such that high value data like PII could be modeled as "high sensitivity" data which is only available to players with above some threshold reputation (or "ethics points" or whatever). higher data sensitivity correlates with higher capital generation from models built with that data
+
+
+data could be easy to generate but hard to store. a player's private "data lake" is something they can invest in to increase their storage capacity, but if they want to train a model that requires more data than they can store, they have to use public data and make the model public. conversely, they can donate data to the public lake (nom-sensitive data only) for a benefit of some kind, like a small gain in influence. so if a user doesn't grow their lake, they can't train large private models and will be incentivized to contribute to the public data pool.
+
+
+data is similarly combined as the upgrading procedure when building models, which gives the dataset/model a "level" in terms of plate height units as well, which determines compute compatibility for training/inference
+
+model training could have a minimum batch size. part of the data refinement mechanism could be combining data units of the same modelity into larger data sets (2x2 plate green -> 2x4 green plate)
+
+late game models have higher minimum batch size, forcing players to construct (upgrade their data into) larger datasets.
+* larger datasets constructed by "joining" datasets (literally, lol). data upgrade can be an effect similar to compute upgrade
+
+add a new construction resource, e.g. "hardware" - plates consumed when upgrading
+* "joining" datasets - date upgrade mechanic!
+* orchestrating compute into "networked" clusters
+
+limitless public data, private/sensitive data must be purchased
+
+
+
+## 4. **Influence**
+    * reputation (h-index, ethical points)
+    * reach (followers)
+    * capital can be exchanged for reach
+    * influence is treated as a resource
+    * ending the game with the most influence could be a win condition or private goal.
+      * actually, this works for any resource
+
+## 5. **hardware**
+    * consumed when structuring compute ("racking" compute nodes into clusters)
+    * consumed when structuring data ("joining" datasets... "storing"?)
+
+---
+
+---
 
 
 ---
