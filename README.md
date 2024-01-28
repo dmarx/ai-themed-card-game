@@ -21,6 +21,7 @@
    - Used to purchase outputs/effects from models served by other users.
      - served = compute committed to inferencing that model
    - units of capital could be called "credits"
+   - Capital can be used to purchase compute, data, and influence (just reach, not reputation).
 
 2. **Compute**
    - Acquired with capital.
@@ -57,11 +58,23 @@
 
 #### III. Models
 
+Compute and data are required inputs for crafting "models". refined data is worth extra, less data required for training when refined than when raw
+
+Models consume compute and produce capital and data. "shipping" a model increases influence (definitely reputation... reach too)
+
+
 - **Attributes**:
   - Data Types and Quantities required.
+    - some amount of data of whichever modalities required to train the model 
   - Training Compute Cost (multi-turn commitment).
-  - Inference Compute Cost (proportional to committed compute).
+    - some volume of training data tokens, compute clusters complexity determines rate at which data can be organized into trained model
+  - Inference Compute minimum commitment (e.g. RAM). volume of model output proportional to committed compute.
   - Open Source Status.
+    - once an open model is trained, any user can commit compute to it to generate resources.
+    - closed models can still be used by other players, but they have to pay capital to whoever owns the compute that is "serving" the model
+    - open source models boost influence more, both reach and reputation.
+    - both open source models and closed models generate capital.
+    - closed models don't generate influence until they've been upgraded to "experimental" status, or whatever the top of the skill tree is for AI model upgrade progression.
   - Upgradability.
   - Unique Special Effects based on Data Modalities.
 
@@ -136,29 +149,10 @@
 - **Extra Point Objectives**: Awarded for controlling the most advanced compute cluster or the current SOTA model.
 
 ---
-
-This revised summary now includes all the detailed elements from your notes, providing a comprehensive and nuanced overview of the "AI Assembly" game concept.
-
 ---
 
 
 
-Capital can be used to purchase compute, data, and influence (just reach, not reputation).
-
-Compute and data are required inputs for crafting "models". refined data is worth extra, less data required for training when refined than when raw
-
-Models consume compute and produce capital and data. "shipping" a model increases influence (definitely reputation... reach too)
-
-## Models
-
-Models have the following attributes
-* data types and quantities: some amount of data of whichever modalities required to train the model
-* training compute cost: paying down the compute cost for training a model should take several turns. when the compute cost is paid down, the model has been "trained"
-* inference compute cost: a model can only be used to produce resources if the user has committed compute to the model, and the amount of output the model generates is proportional to the committed compute.
-* open source or not: once an open model is trained, any user can commit compute to it to generate resources. closed models can still be used by other players, but they have to pay capital to whoever owns the compute that is "serving" the model
-* open source models boost influence more, both reach and reputation.
-* both open source models and closed models generate capital. closed models don't generate influence until they've been upgraded to "experimental" status, or whatever the top of the skill tree is for AI model upgrade progression.
-* models are upgradeable
 
 
 ## Misc Mechanics
