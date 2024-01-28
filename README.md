@@ -89,6 +89,12 @@ maybe "reputation" can be the "victory points" equivalent? or maybe some functio
   * burnout
   * self-care
 * 10x developers
+* parallelization strategies
+  * model parallel
+  * data parallel
+  * tensor parallel
+  * zero offload/infinity
+  * k8s/knative/serverless
 
 # Playtesting notes
 
