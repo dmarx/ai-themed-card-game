@@ -273,57 +273,6 @@ some single model or small set of models is granted "SOTA" status. for now, let'
 ---
 
 
-
-
-
-## things/people to satirize
-
-* ai influencers
-* e/acc
-* decel
-* EY
-* agi doomerism
-* x-risk
-* safety researchers
-* capabees
-* geese
-* schmidhuber
-* gary marcus/brick wall
-* data annotation
-* duplicated data
-* copyright
-* fair use
-* data laundering
-* license laundering
-* open source
-* independent researchers
-* notebook/demo coders
-* neuroatypicality
-* degens
-* deepfakes
-* misinformation
-* glaze/nightshade
-  - lol, could be a card that doesn't do anything.
-  - event card: -2 reputation, +1 reach
-* denoising diffusion
-* vae
-* low quality research code
-* remote work
-  * "Return-To-Office" could be a negative event
-* mental health
-  * burnout
-  * self-care
-* 10x developers
-* parallelization strategies
-  * model parallel
-  * data parallel
-  * tensor parallel
-  * zero offload/infinity
-  * k8s/knative/serverless
-* x is all you need
-  * transformers/scaling/diffusion/vae/skip connections/dropout/more layers
-* scaling laws
-
 # Playtesting notes
 
 
