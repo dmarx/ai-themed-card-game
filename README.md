@@ -176,3 +176,37 @@ carrying capacity for influence grows quadratically with model size to incentivi
 a model can only realize its influence by being utilized, so players are incentivized to release public models to give them more opportunity to be used
 
 some single model or small set of models is granted "SOTA" status. for now, let's say the single largest/most complex model on the table, and the number of SOTA models could scale with the number of players. the current SOTA model generates outputs faster than all the other models, let's say generates 50% more data/influence per inference. this incentivizes players to chase SOTA and to use other players' models (if other players own the current SOTA).
+
+early game: acquire capital to secure compute
+
+mid game: build artifacts to gain reputation
+
+late game: leverage reputation to build advanced artifacts (which require some threshold reputation to be developed), chase SOTA (associated with a reach bonus), accumulate influence
+
+limitless public data, private/sensitive data must be purchased
+
+structuring compute = "racking"/"interconnect" -> horizontal scaling
+
+horizontal scaling requires "racking": joining pairs of compute units into "clusters". racking consumes "hardware" units. maybe some threshold max scaling? limited by compute generation?
+
+periodic milestone (every k rounds, maybe triggered by certain cards distributed in the deck or player achievements): "compute generation" increments. 
+
+when the "compute generation" increments, everyone's compute scales down one unit vertically
+- oldest compute gets retired/bricked/sold on aftermarket (exchanged for capital, reduced relative to original purchase price)
+- keep users purchasing latest generation compute if they want to be able to train/inference the SOTA
+
+vertical scaling needs to be "parallel". if compute is assigned to a cluster, the entire cluster needs to scale together. otherwise, the cluster can be broken apart to only scale fewer compute units at a time, but the user doesn't get that hardware back and needs to pay again to re-integrate the upgraded compute units to the cluster. a given compute cluster needs to be *homogeneous* relative to its compute units.
+
+grey plates = "hardware"/"structure" units.
+- need structured compute to operate on structured data
+- structured data + structured compute --> satisfy requirements for "dense" models. model density correlates with influence capacity, SOTA scoring, model performance, etc.
+
+extra point objectives similar to longest road/largest army in catan
+- player who controls current SOTA artifact
+- player who controls most powerful/advanced compute cluster
+
+compute clusters are public resources. a player owns the compute cluster they develop, but other players can still use reserve and use space on their cluster at market price. the owner of the cluster can expend additional resources to define a "reserved" portion of the cluster that is exclusive to them
+
+alternatively: compute only lives in cloud. as such, compute can't be purchased, only rented. if you can't pay rent on your compute, it is released back to cloud availability for other users to rent on demand or to "purchase" (rent on reserve).
+
+limited compute incentivizes players to share models -> i can't use my compute to train bigger models if you're using my compute to inference my models
