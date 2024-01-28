@@ -280,3 +280,116 @@ Focusing on "Data Domination," "Resource Acquisition," and "Faction Dominance" a
 
 Factions add a layer of narrative and strategic depth, encouraging players to adopt different playstyles and strategies based on their faction's strengths and objectives. It also enhances the replayability of the game, as players can explore different factions in subsequent games.
 
+
+---
+
+summarization of readme notes
+
+
+### AI Assembly - Game Design Document
+
+#### Working Title: AI Assembly
+
+---
+
+#### I. Overview
+
+- **Theme**: Artificial Intelligence Development
+- **Objective**: Build and optimize AI models, acquire resources, and gain influence.
+
+---
+
+#### II. Resources
+
+1. **Capital**
+   - Can be exchanged for other resources.
+   - Used to purchase outputs or effects from models.
+
+2. **Compute**
+   - Purchasable with capital.
+   - Essential for crafting models.
+
+3. **Data**
+   - Types: Raw (convertible to Refined), Text, Image, Other.
+   - Raw data can be refined for enhanced effects.
+   - Tradable with capital.
+
+4. **Influence**
+   - Components: Reputation (h-index, ethical points), Reach (followers).
+   - Can be bought with capital.
+   - Potentially a win condition or private goal.
+
+---
+
+#### III. Models
+
+- **Attributes**:
+  - Data Types and Quantities.
+  - Training Compute Cost.
+  - Inference Compute Cost.
+  - Open Source Status.
+  - Upgradability.
+
+- **Functionality**:
+  - Consume Compute.
+  - Produce Capital and Data.
+  - Influence gain upon "shipping".
+
+- **Types**:
+  - Open Source (Boosts Influence).
+  - Closed (Generates Capital, Influence after reaching "Experimental" status).
+
+---
+
+#### IV. Game Mechanics
+
+1. **Factions**
+   - Determine private goals.
+
+2. **Personas**
+   - Offer special abilities.
+
+3. **Ethical Dilemmas**
+   - Impact reputation.
+
+4. **Model Crafting**
+   - Data and Compute are used to build models.
+
+5. **Model Upgrades**
+   - Enhances capabilities and influence potential.
+
+---
+
+#### V. Satirical Elements
+
+- Include various satirical references to AI culture and personalities.
+
+---
+
+#### VI. Playtesting Notes
+
+- **Model Cards**: Represent training recipes.
+- **Data Cost**: Varies by model.
+- **Model Configuration**: Involves arranging data and paying compute costs.
+- **Model Throughput and RAM**: Limits model building.
+- **Upgrading Models**: Requires data and compute investment.
+- **Data Generation**: Compute committed to models generates raw data.
+- **Refining Data**: Can be a card effect or player action.
+- **Data Lakes and Model Registries**: Represent player's data and models.
+- **Compute and Data Homogeneity**: Important for compatibility and upgrades.
+- **Free Compute Pool**: Limited and subject to reset periods.
+- **Data Sensitivity**: Higher value data requires higher reputation.
+- **Data Storage**: Limits model training capacity.
+- **Influence Accumulation**: Dependent on model usage and size.
+- **Late Game Objectives**: Chase SOTA status, accumulate influence.
+
+---
+
+#### VII. Additional Mechanics and Concepts
+
+- **Hardware Resource**: Used for upgrading and structuring.
+- **Compute Scaling**: Horizontal and vertical scaling mechanics.
+- **Periodic Milestones**: Impact compute availability.
+- **Public Compute Clusters**: Can be rented or reserved.
+- **Extra Point Objectives**: Similar to bonus points in strategy games.
+
