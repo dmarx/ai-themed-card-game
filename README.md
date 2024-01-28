@@ -92,33 +92,35 @@ Models consume compute and produce capital and data. "shipping" a model increase
 #### IV. Game Mechanics
 
 1. **Factions**
-   - Align with specific AI development philosophies or sectors, influencing private goals.
+   - Associated with private goals.
+   - thematically align with specific AI development philosophies or sectors
 
-2. **Personas**
-   - Unique characters with special abilities.
+3. **Personas**
+   - associated with special abilities.
 
-3. **Ethical Dilemmas**
-   - Challenges that impact reputation based on choices.
+4. **Ethical Dilemmas**
+   - Challenges that impact reputation (major component of Influence) based on choices.
+   - use influence for "victory points" mechanism.
 
-4. **Model Crafting and Upgrades**
+5. **Model Crafting and Upgrades**
    - Combining Data and Compute resources to create AI models.
    - Maintain data:modality proportions in upgrades.
    - "Joining" datasets for larger models.
 
-5. **Data and Compute Management**
+6. **Data and Compute Management**
    - Player-driven economy for resource trading.
    - Public vs. Private Data Lakes for storage and strategy.
    - Compute management with racking/networked clusters.
    - Compute homogeneity in clusters for efficiency.
 
-6. **SOTA Model Mechanic**
+7. **SOTA Model Mechanic**
    - Rewards for holding the SOTA model status.
    - SOTA models have enhanced output generation.
 
-7. **Periodic Compute Generation Milestones**
+8. **Periodic Compute Generation Milestones**
    - Impact on compute availability and strategy.
 
-8. **Compute Rental Concept**
+9. **Compute Rental Concept**
    - Compute is rented, not owned; strategic management of compute rental.
 
 ---
@@ -154,14 +156,6 @@ Models consume compute and produce capital and data. "shipping" a model increase
 
 
 
-
-## Misc Mechanics
-
-* factions -> private goals
-* personas -> special abilities
-* ethical dilemmas -> reputation
-
-maybe "reputation" can be the "victory points" equivalent? or maybe some function of reputation and reach, so "whoever ends the game with the most influence wins". that tracks.
 
 ## things/people to satirize
 
