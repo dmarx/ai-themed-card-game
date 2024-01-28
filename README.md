@@ -85,6 +85,13 @@ alternatively: compute only lives in cloud. as such, compute can't be purchased,
 limited compute incentivizes players to share models -> i can't use my compute to train bigger models if you're using my compute to inference my models
 
 
+8. **Periodic Compute Generation Milestones**
+   - Impact on compute availability and strategy.
+
+9. **Compute Rental Concept**
+   - Compute is rented, not owned; strategic management of compute rental.
+
+
 ## 3. **Data**
 
  * raw -> refined
@@ -237,6 +244,10 @@ how:
   * associated with some VP bonus that follows the "SOTA" label
 * generates outputs faster
   * let's say generates 50% more data/influence per inference.
+
+7. **SOTA Model Mechanic**
+   - Rewards for holding the SOTA model status.
+   - SOTA models have enhanced output generation.
  
 ---
 
@@ -264,15 +275,6 @@ how:
    - Compute management with racking/networked clusters.
    - Compute homogeneity in clusters for efficiency.
 
-7. **SOTA Model Mechanic**
-   - Rewards for holding the SOTA model status.
-   - SOTA models have enhanced output generation.
-
-8. **Periodic Compute Generation Milestones**
-   - Impact on compute availability and strategy.
-
-9. **Compute Rental Concept**
-   - Compute is rented, not owned; strategic management of compute rental.
 
 
 ---
