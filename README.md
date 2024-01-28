@@ -143,3 +143,8 @@ data is similarly combined as the upgrading procedure when building models, whic
 model training could have a minimum batch size. part of the data refinement mechanism could be combining data units of the same modelity into larger data sets (2x2 plate green -> 2x4 green plate)
 
 late game models have higher minimum batch size, forcing players to construct (upgrade their data into) larger datasets.
+* larger datasets constructed by "joining" datasets (literally, lol). data upgrade can be an effect similar to compute upgrade
+
+add a new construction resource, e.g. "hardware" - plates consumed when upgrading
+* "joining" datasets - date upgrade mechanic!
+* orchestrating compute into "networked" clusters
