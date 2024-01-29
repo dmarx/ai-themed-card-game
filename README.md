@@ -296,7 +296,7 @@ how:
 
 ---
 
-# V. Misc Playtesting Notes
+# V. Misc Notes
 
 - **Model Cards**: Represent AI model training recipes.
 - **Data Cost**: Specific to each model, with minimum requirements for modalities and overall data.
@@ -317,3 +317,8 @@ late game: leverage reputation to build advanced artifacts (which require some t
 extra point objectives similar to longest road/largest army in catan
 - player who controls current SOTA artifact
 - player who controls most powerful/advanced compute cluster
+
+---
+
+* **"preferred provider"**
+  * instead of (in addition to?) "regions", we could have chunks of compute associated with a "preferred provider" at which the player gets a discount
