@@ -43,7 +43,7 @@ Both horizontal and vertical scaling dynamics.
   * compute units can be combined into upgraded compute (level 1,2,3), but if paying a compute cost the compute will "parallelize" and be bottlenecked by the lowest level of compute in the ~~"cluster"~~ collection of committed compute resources (needs different name from cluster) 
 
 * upgrading (combining/racking) compute could be a card effect.
-  * e.g. play "slurm" card to your board: "pay $x to upgrade compute units once per turn"
+  * e.g. play "slurm" card to your board: "pay $x to upgrade/rack compute units once per turn"
 
 
 ### **playtesting notes**
