@@ -46,8 +46,7 @@ Both horizontal and vertical scaling dynamics.
   * e.g. play "slurm" card to your board: "pay $x to upgrade/rack compute units once per turn"
 
 
-### **playtesting notes**
-
+### upgrading compute
 
 users need to upgrade compute to be able to play late game. 
 
@@ -60,9 +59,20 @@ users need to upgrade compute to be able to play late game.
   * can inference complex models
 * after upgrading a compute unit to level 3, it can be "racked" with other level 3 compute units to form "HPC" clusters (required for late game model training, impacts throughput?)
 
-
 using lego plates, "level" is height of combined plates.
 
+compute levels could also be "generation". e.g. level 1 = current, level 2 = previous, level 3 = vintage. 
+
+this could work with an aging mechanic. maybe every could of turns/rounds, or an event card, maybe unlucky roll.... whatever. something triggers an event, and levels shift from 1->2 and 2->3. 
+
+very torn on all of this.
+
+...
+
+i'm torn on this topic. 
+
+
+### **playtesting notes**
 
 
 structuring compute = "racking"/"interconnect" -> horizontal scaling
