@@ -15,14 +15,14 @@
 
 # II. Resources
 
-## 1. **Capital** ("credits")
+## 1. **Capital** ("credits/bucks")
    - Exchanged for other resources.
    - Used to purchase outputs/effects from models served by other users.
      - served = compute committed to inferencing that model
    - units of capital could be called "credits"
    - Capital can be used to purchase compute, data, and influence (just reach, not reputation).
 
-## 2. **Compute** ("nodes")
+## 2. **Compute** ("nodes/hosts/hardware/FLOPs")
    - Acquired with capital.
    - Necessary for model crafting and training.
    - Energy cost?
