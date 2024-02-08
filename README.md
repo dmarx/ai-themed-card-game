@@ -287,6 +287,12 @@ how:
    - Associated with private goals.
    - thematically align with specific AI development philosophies or sectors
 
+maybe the faction mechanic could be used to encourage collaboration between members of a common faction
+
+faction membership could assign a faction-specific game-end condition. e.g. maybe the e/acc faction can force game end by bringing about AGI, or doomers can force game end by playing/publishing K "ai regulations" or ... whatever
+
+oooo here's an idea. there could be two factions, and in any game players will be assigned to one or the other. the overarching goal is for your faction to win. so e.g. e/acc vs. doomers, e/acc wins by building AGI, doomers win by publishing enough regulations that AGI becomes impossible
+
 3. **Personas**
    - associated with special abilities.
 
