@@ -97,3 +97,4 @@ different research labs could be factions or be associated with factions, e.g. d
 
 maybe the faction mechanic could be used to encourage collaboration between members of a common faction
 
+faction membership could assign a faction-specific game-end condition. e.g. maybe the e/acc faction can force game end by bringing about AGI, or doomers can force game end by playing/publishing K "ai regulations" or ... whatever
