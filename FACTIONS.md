@@ -90,3 +90,10 @@ To further refine the faction mechanics for "AI Assembly," we can enhance the de
 Including these factions will enhance the replayability and strategic diversity of "AI Assembly," making each playthrough unique and engaging.
 
 If you’d like more faction ideas or want to focus on another aspect of the game, feel free to let me know!
+
+---
+
+different research labs could be factions or be associated with factions, e.g. deepmind., openai, stability, laion, eleuther, etc.
+
+maybe the faction mechanic could be used to encourage collaboration between members of a common faction
+
