@@ -113,6 +113,7 @@ compute could be represented by tiles on a game board. like catan's road buildin
 * nodes in same region can be "racked" together into clusters
 * clusters must be comprised of nodes in the same region and generation
 
+players could be confined to per-player regions, i.e. which would set an upper-bound on how much compute they could accumulate. this wouldn't actually need to be a board-bound mechanic, we could just set a limit to compute accumulation. or maybe that could be a "regulation" a player could "publish". that's an idea... what could be other "regulations" or "legislation"? i guess those could be global event cards.
 
 
 ## 3. **Data** ("tokens")
