@@ -93,7 +93,7 @@ If you’d like more faction ideas or want to focus on another aspect of the gam
 
 ---
 
-different research labs could be factions or be associated with factions, e.g. deepmind., openai, stability, laion, eleuther, etc.
+different research labs could be factions or be associated with factions, e.g. deepmind., openai, stability, laion, eleuther, coreweave, etc.
 
 maybe the faction mechanic could be used to encourage collaboration between members of a common faction
 
