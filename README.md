@@ -165,7 +165,9 @@ limitless public data, private/sensitive data must be purchased
 
 
 
-## 4. **Influence** ("reputation" + "reach")
+## 4. Victory Point Resources
+
+### **Influence** ("reputation" + "reach")
 
  * reputation (h-index, ethical points)
  * reach (followers)
@@ -175,6 +177,13 @@ limitless public data, private/sensitive data must be purchased
    * actually, this works for any resource
 
 ... ooooo even better than influence: *impact*
+
+### **Impact**
+
+* hardest to achieve/collect
+* any player earning this resource triggers an event
+  * global event, like the technology generation incrementing
+  * the player gains some kind of bonus or advantage (early access, reduced cost, elevated output, etc.)
 
 ## 5. **Hardware**
 
