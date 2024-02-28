@@ -174,6 +174,8 @@ limitless public data, private/sensitive data must be purchased
  * ending the game with the most influence could be a win condition or private goal.
    * actually, this works for any resource
 
+... ooooo even better than influence: *impact*
+
 ## 5. **Hardware**
 
 Needed for compute/data upgrading and structuring.
